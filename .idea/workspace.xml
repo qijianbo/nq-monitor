@@ -2,79 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="41514b8e-13a7-4c23-850f-28d2e3f78b93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/adapters" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/breadcrumb_divider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/btn_submit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/btn_submit_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/btn_view_site.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/header_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/header_shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_add_user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_alert_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_alert_info.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_alert_success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_alert_warning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_audio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_categories.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_edit_article.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_folder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_jump_back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_logout.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_new_article.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_photo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_profile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_security.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_trash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_video.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icn_view_users.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/module_footer_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/modules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/post_message.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/secondary_bar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/secondary_bar_shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/sidebar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/sidebar_divider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/sidebar_shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/table_sorter_header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/themes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/modules/canvas-tools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/modules/canvas-tools.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/themes/dark-blue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/themes/dark-green.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/modules/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/modules/data.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/modules/exporting.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/modules/exporting.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/modules/funnel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/modules/funnel.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/themes/gray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/themes/grid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/hideshow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/highcharts-more.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/highcharts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/highcharts.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/jquery.equalHeight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/jquery.tablesorter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/monitor.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/adapters/mootools-adapter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/adapters/mootools-adapter.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/adapters/prototype-adapter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/adapters/prototype-adapter.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/highcharts/themes/skies.js" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\nq-monitor\out\artifacts\monitor_war_exploded\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\nq-monitor\out\artifacts\monitor_war_exploded\index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\nq-monitor\out\artifacts\monitor_war_exploded\WEB-INF" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\nq-monitor\out\artifacts" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\nq-monitor\out\artifacts\monitor_war_exploded" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\nq-monitor\out" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/layout.css" afterPath="$PROJECT_DIR$/web/css/layout.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monitor.iml" afterPath="$PROJECT_DIR$/monitor.iml" />
-      <change type="MOVED" beforePath="D:\workspace_idea\monitor\web\image" afterPath="$PROJECT_DIR$/web/images" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="monitor.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../NQ_MS/branches/nqms_monitor/nq.ms.app.v4/src/main/java/com/netqin/av/common/securedownload/web/SecureDownLoadController.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367830762533" ignored="false" />
-    <file path="/index.jsp" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367941124008" ignored="false" />
+    <file path="/index.jsp" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367945393859" ignored="false" />
     <file path="/Dummy.txt" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367921139693" ignored="false" />
     <file path="$PROJECT_DIR$/../NQ_MS/branches/nqms_monitor/nq.ms.app.v4/src/main/webapp/WEB-INF/av-common-services.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367835852443" ignored="false" />
     <file path="/av-common-services.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367835444197" ignored="false" />
@@ -116,7 +58,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -151,7 +92,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -164,8 +105,10 @@
       <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="20" selection-start="4135" selection-end="4135" vertical-scroll-proportion="0.53306615">
-              <folding />
+            <state line="211" column="26" selection-start="7681" selection-end="7681" vertical-scroll-proportion="0.3653846">
+              <folding>
+                <element signature="tag#aside#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -173,7 +116,7 @@
       <file leaf-file-name="monitor.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/monitor.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="55" selection-start="357" selection-end="357" vertical-scroll-proportion="-4.75">
+            <state line="7" column="55" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -204,9 +147,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="width" value="1362" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -236,7 +180,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -251,7 +195,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="monitor" />
+              <option name="myItemId" value="nq-monitor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -261,47 +205,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="monitor" />
+              <option name="myItemId" value="nq-monitor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="monitor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="monitor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -527,20 +454,20 @@
     <option name="myMappingRoots">
       <list>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\workspace_idea\monitor" />
-          <option name="myCopyRoot" value="D:\workspace_idea\monitor" />
+          <option name="myVcsRoot" value="C:\Users\Administrator\Desktop\nq-monitor" />
+          <option name="myCopyRoot" value="C:\Users\Administrator\Desktop\nq-monitor" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\workspace_idea\monitor\.idea" />
-          <option name="myCopyRoot" value="D:\workspace_idea\monitor\.idea" />
+          <option name="myVcsRoot" value="C:\Users\Administrator\Desktop\nq-monitor\.idea" />
+          <option name="myCopyRoot" value="C:\Users\Administrator\Desktop\nq-monitor\.idea" />
         </SvnCopyRootSimple>
       </list>
     </option>
     <option name="myMoreRealMappingRoots">
       <list>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\workspace_idea\monitor" />
-          <option name="myCopyRoot" value="D:\workspace_idea\monitor" />
+          <option name="myVcsRoot" value="C:\Users\Administrator\Desktop\nq-monitor" />
+          <option name="myCopyRoot" value="C:\Users\Administrator\Desktop\nq-monitor" />
         </SvnCopyRootSimple>
       </list>
     </option>
@@ -559,10 +486,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="0" width="1362" height="728" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -573,15 +500,15 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33006993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2676923" sideWeight="0.67132866" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44268078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26742426" sideWeight="0.5574614" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44122657" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -649,10 +576,35 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/monitor.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="55" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="20" selection-start="4135" selection-end="4135" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="tag#aside#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/monitor.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="67" column="36" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="tag#aside#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -675,9 +627,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/css/ie.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="39" selection-start="227" selection-end="227" vertical-scroll-proportion="0.33139536">
-          <folding />
-        </state>
+        <state line="12" column="39" selection-start="227" selection-end="227" vertical-scroll-proportion="0.33139536" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/js/highcharts/adapters/mootools-adapter.js">
@@ -695,31 +645,38 @@
         <state line="192" column="83" selection-start="4717" selection-end="4717" vertical-scroll-proportion="0.46136364" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="308" column="26" selection-start="5405" selection-end="5405" vertical-scroll-proportion="0.40582526">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/js/hideshow.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="40" selection-start="543" selection-end="543" vertical-scroll-proportion="0.38703704">
-          <folding />
-        </state>
+        <state line="14" column="40" selection-start="543" selection-end="543" vertical-scroll-proportion="0.38703704" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/monitor.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="55" selection-start="357" selection-end="357" vertical-scroll-proportion="-4.75">
+        <state line="7" column="55" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/jquery.tablesorter.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="23" selection-start="24" selection-end="24" vertical-scroll-proportion="0.034671534">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="492" column="0" selection-start="8845" selection-end="8845" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="20" selection-start="4135" selection-end="4135" vertical-scroll-proportion="0.53306615">
-          <folding />
+        <state line="211" column="26" selection-start="7681" selection-end="7681" vertical-scroll-proportion="0.3653846">
+          <folding>
+            <element signature="tag#aside#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -778,7 +735,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>monitor</last-edited>
+          <last-edited>Web|monitor</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
