@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="41514b8e-13a7-4c23-850f-28d2e3f78b93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layout" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layout/banner.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/demo.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layout/head.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layout/nav.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spring-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/spring_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/spring_mvc_3_1_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monitor.iml" afterPath="$PROJECT_DIR$/monitor.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="monitor.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../NQ_MS/branches/nqms_monitor/nq.ms.app.v4/src/main/java/com/netqin/av/common/securedownload/web/SecureDownLoadController.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367830762533" ignored="false" />
-    <file path="/index.jsp" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368026599717" ignored="false" />
-    <file path="/Dummy.txt" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368026976775" ignored="false" />
+    <file path="/index.jsp" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368027158899" ignored="false" />
+    <file path="/Dummy.txt" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368027160320" ignored="false" />
     <file path="$PROJECT_DIR$/../NQ_MS/branches/nqms_monitor/nq.ms.app.v4/src/main/webapp/WEB-INF/av-common-services.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367835852443" ignored="false" />
     <file path="/av-common-services.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367835444197" ignored="false" />
     <file path="$PROJECT_DIR$/../NQ_MS/branches/nqms_monitor/nq.ms.app.v4/src/main/resources/log4j.properties" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367835629557" ignored="false" />
@@ -104,10 +101,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="67" selection-start="216" selection-end="216" vertical-scroll-proportion="0.21923077">
+            <state line="4" column="22" selection-start="106" selection-end="106" vertical-scroll-proportion="-2.7142856">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-config.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="39" selection-start="302" selection-end="302" vertical-scroll-proportion="0.16934046">
               <folding />
             </state>
           </provider>
@@ -224,7 +230,7 @@
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="true" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -273,11 +279,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -291,40 +293,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="monitor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nq-monitor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="highcharts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="monitor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="monitor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="nq-monitor">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -595,7 +601,15 @@
       <created>1367945554123</created>
       <updated>1367945554123</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="基本完成框架">
+      <created>1368026999166</created>
+      <updated>1368026999166</updated>
+    </task>
+    <task id="LOCAL-00004" summary="基本完成框架">
+      <created>1368027172116</created>
+      <updated>1368027172116</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -690,11 +704,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/images/icn_search.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/css/ie.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="39" selection-start="227" selection-end="227" vertical-scroll-proportion="0.33139536" />
@@ -783,7 +792,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="67" selection-start="216" selection-end="216" vertical-scroll-proportion="0.21923077">
+        <state line="4" column="22" selection-start="106" selection-end="106" vertical-scroll-proportion="-2.7142856">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="39" selection-start="302" selection-end="302" vertical-scroll-proportion="0.16934046">
           <folding />
         </state>
       </provider>
