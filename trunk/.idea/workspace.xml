@@ -2,22 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="41514b8e-13a7-4c23-850f-28d2e3f78b93" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\nq-monitor\out\artifacts\monitor_war_exploded\WEB-INF\web.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\nq-monitor\out\artifacts\monitor_war_exploded\index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\nq-monitor\out\artifacts\monitor_war_exploded\WEB-INF" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\nq-monitor\out\artifacts" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\nq-monitor\out\artifacts\monitor_war_exploded" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\nq-monitor\out" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layout/banner.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/demo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layout/head.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layout/nav.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/layout.css" afterPath="$PROJECT_DIR$/web/css/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monitor.iml" afterPath="$PROJECT_DIR$/monitor.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="monitor.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../NQ_MS/branches/nqms_monitor/nq.ms.app.v4/src/main/java/com/netqin/av/common/securedownload/web/SecureDownLoadController.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367830762533" ignored="false" />
-    <file path="/index.jsp" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367945393859" ignored="false" />
-    <file path="/Dummy.txt" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367921139693" ignored="false" />
+    <file path="/index.jsp" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368026599717" ignored="false" />
+    <file path="/Dummy.txt" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368026976775" ignored="false" />
     <file path="$PROJECT_DIR$/../NQ_MS/branches/nqms_monitor/nq.ms.app.v4/src/main/webapp/WEB-INF/av-common-services.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367835852443" ignored="false" />
     <file path="/av-common-services.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367835444197" ignored="false" />
     <file path="$PROJECT_DIR$/../NQ_MS/branches/nqms_monitor/nq.ms.app.v4/src/main/resources/log4j.properties" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367835629557" ignored="false" />
@@ -44,6 +42,10 @@
     <file path="$PROJECT_DIR$/../NQ_MS/branches/nqms_optimize/nq.ms.app.v4/src/main/java/com/netqin/av/v4/business/service/impl/DownloadVirusService.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367935666133" ignored="false" />
     <file path="$PROJECT_DIR$/../NQ_MS/branches/nqms_optimize/nq.ms.app.v4/src/main/resources/log4j.properties" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367935666133" ignored="false" />
     <file path="$PROJECT_DIR$/../NQ_MS/branches/nqms_optimize/nq.ms.app.v4/src/main/java/com/netqin/av/v4/business/service/impl/commandchain/updatequery/UpdateQueryVirusCommand.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367938896082" ignored="false" />
+    <file path="/layout.css" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368024561067" ignored="false" />
+    <file path="/main.jsp" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368025217162" ignored="false" />
+    <file path="/head.jsp" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368025778590" ignored="false" />
+    <file path="/index.js" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368026300123" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,10 +107,53 @@
       <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="211" column="26" selection-start="7681" selection-end="7681" vertical-scroll-proportion="0.3653846">
-              <folding>
-                <element signature="tag#aside#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="6" column="67" selection-start="216" selection-end="216" vertical-scroll-proportion="0.21923077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/layout/head.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="65" selection-start="809" selection-end="809" vertical-scroll-proportion="-8.464286">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banner.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/layout/banner.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="8" selection-start="293" selection-end="293" vertical-scroll-proportion="-4.071429">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/layout/nav.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="8" selection-start="1701" selection-end="1701" vertical-scroll-proportion="-17.678572">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/css/layout.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="580" column="0" selection-start="10707" selection-end="10707" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -116,7 +161,7 @@
       <file leaf-file-name="monitor.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/monitor.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="55" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
+            <state line="7" column="55" selection-start="357" selection-end="357" vertical-scroll-proportion="-0.6785714">
               <folding />
             </state>
           </provider>
@@ -135,6 +180,12 @@
         <option value="$PROJECT_DIR$/web/js/highcharts/highcharts.js" />
         <option value="$PROJECT_DIR$/web/monitor.jsp" />
         <option value="$PROJECT_DIR$/web/css/layout.css" />
+        <option value="$PROJECT_DIR$/web/layout/main.jsp" />
+        <option value="$PROJECT_DIR$/web/layout/banner.jsp" />
+        <option value="$PROJECT_DIR$/web/layout/nav.jsp" />
+        <option value="$PROJECT_DIR$/web/layout/head.jsp" />
+        <option value="$PROJECT_DIR$/web/demo.jsp" />
+        <option value="$PROJECT_DIR$/web/js/index.js" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
       </list>
     </option>
@@ -180,7 +231,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -213,8 +263,67 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="monitor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nq-monitor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="monitor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nq-monitor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="monitor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nq-monitor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="highcharts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -235,8 +344,8 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -259,19 +368,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -300,6 +396,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -482,7 +591,11 @@
       <created>1367833420120</created>
       <updated>1367833420120</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002">
+      <created>1367945554123</created>
+      <updated>1367945554123</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -507,7 +620,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33006993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26742426" sideWeight="0.5574614" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26742426" sideWeight="0.5587734" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44122657" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -554,7 +667,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="LAST_COMMIT_MESSAGE" value="基本完成框架" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -567,6 +680,7 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="基本完成框架" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -576,50 +690,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/monitor.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="55" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="20" selection-start="4135" selection-end="4135" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#aside#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/monitor.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="36" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#aside#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/monitor.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="31" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/jquery-1.9.0.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/images/icn_search.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -650,33 +720,71 @@
         <state line="14" column="40" selection-start="543" selection-end="543" vertical-scroll-proportion="0.38703704" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/monitor.jsp">
+    <entry file="file://$PROJECT_DIR$/web/js/jquery.tablesorter.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="55" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
+        <state line="1" column="23" selection-start="24" selection-end="24" vertical-scroll-proportion="0.034671534" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/sectional.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="21" selection-start="797" selection-end="797" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/jquery.tablesorter.min.js">
+    <entry file="file://$PROJECT_DIR$/web/monitor.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="23" selection-start="24" selection-end="24" vertical-scroll-proportion="0.034671534">
+        <state line="7" column="55" selection-start="357" selection-end="357" vertical-scroll-proportion="-0.6785714">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="492" column="0" selection-start="8845" selection-end="8845" vertical-scroll-proportion="0.33333334">
+        <state line="580" column="0" selection-start="10707" selection-end="10707" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/layout/nav.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="8" selection-start="1701" selection-end="1701" vertical-scroll-proportion="-17.678572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/demo.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="149" selection-end="149" vertical-scroll-proportion="0.21923077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/layout/banner.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="8" selection-start="293" selection-end="293" vertical-scroll-proportion="-4.071429">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/layout/head.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="65" selection-start="809" selection-end="809" vertical-scroll-proportion="-8.464286">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="211" column="26" selection-start="7681" selection-end="7681" vertical-scroll-proportion="0.3653846">
-          <folding>
-            <element signature="tag#aside#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="6" column="67" selection-start="216" selection-end="216" vertical-scroll-proportion="0.21923077">
+          <folding />
         </state>
       </provider>
     </entry>
