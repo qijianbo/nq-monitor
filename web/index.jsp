@@ -22,22 +22,34 @@
     <header><h3>[2013年5月8日 00点]病毒库更新成功率</h3></header>
     <div class="module_content">
         <article class="stats_graph">
-            <div id="virusUpdateRate" width="520" height="140"></div>
+            <div id="virusUpdateRate" style="width:670px;height: 300px;"></div>
             <%--<img src="http://chart.apis.google.com/chart?chxr=0,0,3000&chxt=y&chs=520x140&cht=lc&chco=76A4FB,80C65A&chd=s:Tdjpsvyvttmiihgmnrst,OTbdcfhhggcTUTTUadfk&chls=2|2&chma=40,20,20,30" width="520" height="140" alt="" />--%>
         </article>
 
         <article class="stats_overview">
             <div class="overview_today">
-                <p class="overview_day">Last Hour</p>
+                <p class="overview_day">last hour</p>
                 <p class="overview_count">1,876</p>
-                <p class="overview_type">次</p>
+                <p class="overview_type">need update</p>
+                <p class="overview_count">1,432</p>
+                <p class="overview_type">cmd13</p>
+                <p class="overview_count">1,400</p>
+                <p class="overview_type">success</p>
+                <p class="overview_count">100%</p>
+                <p class="overview_type">成功率</p>
                 <p class="overview_count">100%</p>
                 <p class="overview_type">成功率</p>
             </div>
             <div class="overview_previous">
                 <p class="overview_day">Current</p>
                 <p class="overview_count">1,646</p>
-                <p class="overview_type">次</p>
+                <p class="overview_type">need update</p>
+                <p class="overview_count">1,432</p>
+                <p class="overview_type">cmd13</p>
+                <p class="overview_count">1,400</p>
+                <p class="overview_type">success</p>
+                <p class="overview_count">99.4%</p>
+                <p class="overview_type">成功率</p>
                 <p class="overview_count">99.4%</p>
                 <p class="overview_type">成功率</p>
             </div>

@@ -449,6 +449,7 @@ float: left;
 .stats_graph {
 width: 64%;
 float: left;
+height: 300px;
 }
 
 .stats_overview {
