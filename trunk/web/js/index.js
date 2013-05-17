@@ -9,12 +9,45 @@ $(document).ready(function() {
         var chart =new Highcharts.Chart({
             chart: {
                 renderTo:"virusUpdateRate",
-                defaultSeriesType:'spline',
+                defaultSeriesType:'areaspline',
                 animation: Highcharts.svg, // don't animate in old IE
-                marginRight: 5
+                marginRight: 5,
+                events: {
+                    load: function() {
+                        var series = this.series[0],indexNum = 0;
+                        setInterval(function() {
+                            var x = (new Date()).getTime()+indexNum*3600*1000, // current time
+                                y = getRandomDate();
+                            indexNum++;
+                            series.addPoint([x, y], true, true);
+                        }, 1000);
+                    }
+                }
             },
             title: {
                 text: '海外病毒库更新成功率'
+            },
+            plotOptions: {
+                areaspline: {
+                    fillColor: {
+                        linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1},
+                        stops: [
+                            [0, Highcharts.getOptions().colors[0]],
+                            [1, Highcharts.Color(Highcharts.getOptions().colors[0]).setOpacity(0).get('rgba')]
+                        ]
+                    },
+                    lineWidth: 1,
+                    marker: {
+                        enabled: false
+                    },
+                    shadow: false,
+                    states: {
+                        hover: {
+                            lineWidth: 1
+                        }
+                    },
+                    threshold: null
+                }
             },
             tooltip: {
                 formatter: function() {
@@ -34,9 +67,11 @@ $(document).ready(function() {
                 tickPixelInterval: 30
             },
             yAxis: {
+                lineWidth: 1,
                 title: {
                     text: '成功率'
                 },
+                type: 'linear',
                 min:0
             },
             legend: {
@@ -59,7 +94,6 @@ $(document).ready(function() {
                             name:elTime.Format('yyyy-MM-dd HH:00')
                         };
                         data.push(el);
-//                        alert(el.x+","+el.y)
                     }
                     return data;
                 })()
@@ -69,8 +103,7 @@ $(document).ready(function() {
 });
 
 function getRandomDate(){
-    return 100;
-//    return parseInt(Math.random()*(100-80+1)+80)
+    return parseInt(Math.random()*(100-80+1)+80)
 }
 
 Date.prototype.Format = function (fmt) { //author: meizz
