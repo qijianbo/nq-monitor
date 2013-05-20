@@ -2,6 +2,7 @@
 <meta charset="utf-8"/>
 <title>杀毒服务器监控</title>
 
+<link rel="shortcut icon" href="ico/favicon.ico">
 <link rel="stylesheet" href="css/layout.css" type="text/css" media="screen" />
 <!--[if lt IE 9]>
 <link rel="stylesheet" href="css/ie.css" type="text/css" media="screen" />
