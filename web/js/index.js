@@ -4,7 +4,21 @@ $(document).ready(function() {
             useUTC: false
         }
     });
-
+    var seriesData;
+    $.ajax({
+        url: "http://localhost:8080/monitor/data/helloWorld.html",
+        cache: false,
+        dataType:"json",
+        async:false,
+        success: function(data){
+            if(data.success){
+                seriesData=data.data;
+            }else{
+                alert("加载数据出错!");
+                seriesData=null;
+            }
+        }
+    });
     var chart =new Highcharts.Chart({
         chart: {
             renderTo:"virusUpdateRate",
@@ -88,19 +102,7 @@ $(document).ready(function() {
         },
         series: [{
             name:'成功率',
-            data: (function() {
-                var data = [],dateTime=(new Date()),i,elTime;
-                dateTime.setMinutes(parseInt(new Date().getMinutes()/5)*5,0,0)
-                for (i = 24*12; i >= 0; i--) {
-                    elTime =(new Date(dateTime-i*5*60*1000));
-                    data.push({
-                        x: elTime,
-                        y: getRandomDate(),
-                        name:elTime.Format('yyyy-MM-dd HH:mm')
-                    });
-                }
-                return data;
-            })()
+            data:seriesData
         }]
     });
     loadData(chart);
@@ -129,16 +131,6 @@ Date.prototype.Format = function (fmt) { //author: meizz
 
 function loadData(chart){
 
-}
-function temp(){
-    $.getJSON("",
-        function(data){
-            $.each(data.items, function(i,item){
-                $("<img/>").attr("src",
-                    item.media.m).appendTo("#images");
-                if ( i == 3 ) return false;
-            });
-        });
 }
 
 
