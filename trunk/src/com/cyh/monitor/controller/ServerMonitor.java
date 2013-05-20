@@ -34,9 +34,7 @@ public class ServerMonitor{
 
     @RequestMapping(value = "/login.html",method = RequestMethod.POST)
     public String login(@RequestParam String name,@RequestParam String password, Model model){
-        ModelAndView mav = new ModelAndView();
-        mav.setViewName("login");
-        mav.addObject("message", "Hello World!");
+        model.addAttribute("message", "密码错误");
         return "login";
     }
 
