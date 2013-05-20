@@ -2,23 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="41514b8e-13a7-4c23-850f-28d2e3f78b93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cyh/monitor/controller/ServerCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cyh/monitor/controller/ServerConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cyh/monitor/controller/ServerMonitor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/error" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/view" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/error/500.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/view/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cyh/monitor/servelt-config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cyh/monitor/controller/ServerMonitor.java" afterPath="$PROJECT_DIR$/src/com/cyh/monitor/controller/ServerMonitor.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/js/index.js" afterPath="$PROJECT_DIR$/web/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/spring-config.xml" afterPath="$PROJECT_DIR$/src/spring-config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="monitor.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../NQ_MS/branches/nqms_monitor/nq.ms.app.v4/src/main/java/com/netqin/av/common/securedownload/web/SecureDownLoadController.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367830762533" ignored="false" />
     <file path="/index.jsp" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367941124008" ignored="false" />
-    <file path="/Dummy.txt" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368781068769" ignored="false" />
+    <file path="/Dummy.txt" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1369028120220" ignored="false" />
     <file path="$PROJECT_DIR$/../NQ_MS/branches/nqms_monitor/nq.ms.app.v4/src/main/webapp/WEB-INF/av-common-services.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367835852443" ignored="false" />
     <file path="/av-common-services.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368257819065" ignored="false" />
     <file path="$PROJECT_DIR$/../NQ_MS/branches/nqms_monitor/nq.ms.app.v4/src/main/resources/log4j.properties" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367835629557" ignored="false" />
     <file path="/monitor.jsp" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367837234601" ignored="false" />
-    <file path="/a.dummy" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368258665150" ignored="false" />
+    <file path="/a.dummy" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368787005114" ignored="false" />
     <file path="$PROJECT_DIR$/../MYTest/pro_12_02.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367856428555" ignored="false" />
     <file path="$PROJECT_DIR$/../MYTest/src/test/PostXMLToServerTestCase.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367860880066" ignored="false" />
     <file path="$PROJECT_DIR$/../BOSS_SUPPORT_AV/WebContent/WEB-INF/views/jsp/function/av/directUpdateConfig/directUpdateConfigCreate.jsp" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1367906038998" ignored="false" />
@@ -67,7 +71,7 @@
     <file path="/VerifyNQAccountController.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368242833269" ignored="false" />
     <file path="/AddNQAccountController.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368259892401" ignored="false" />
     <file path="$PROJECT_DIR$/../../NQ_MS/branches/nqms_openid/nq.ms.app.v4/src/main/java/com/netqin/av/common/openid/service/OpenIdCallBackService.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368243799276" ignored="false" />
-    <file path="/index.js" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368780699285" ignored="false" />
+    <file path="/index.js" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1369022020760" ignored="false" />
     <file path="$PROJECT_DIR$/../../MYTest/src/test/PostXMLToServerTestCase.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368257034181" ignored="false" />
     <file path="$PROJECT_DIR$/../../MYTest/local_53.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368256765454" ignored="false" />
     <file path="$PROJECT_DIR$/../../NQ_MS/branches/nqms_openid/nq.common.tools/src/main/java/com/nq/common/logging/LogContext.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368258057313" ignored="false" />
@@ -75,7 +79,27 @@
     <file path="$PROJECT_DIR$/../../NQ_MS/branches/nqms_openid/nq.ms.app.v4/src/main/java/com/netqin/av/common/nqspace/web/ChangePasswordNQAccountController.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368259446324" ignored="false" />
     <file path="$PROJECT_DIR$/../../NQ_MS/branches/nqms_openid/nq.common.tools/src/main/java/com/nq/common/tools/uc.properties" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368260586691" ignored="false" />
     <file path="/uc.properties" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368260585900" ignored="false" />
-    <file path="/ServerMonitor.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368776542659" ignored="false" />
+    <file path="/ServerMonitor.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1369028049148" ignored="false" />
+    <file path="$PROJECT_DIR$/../../NQ_MS/trunk/nq.ms.parent/nq.ms.app.v4/src/main/java/com/netqin/av/v4/business/service/impl/AVCommonService.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368785690277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../NQ_MS/trunk/nq.ms.parent/nq.ms.app.v4/src/main/java/com/netqin/av/v4/AVConstants.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368785690277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../NQ_MS/trunk/nq.ms.parent/nq.ms.app.v4/src/main/webapp/WEB-INF/appPlatform-servlet.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368785690277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../NQ_MS/trunk/nq.ms.parent/nq.ms.app.v4/src/main/webapp/WEB-INF/av-actions.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368785690277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../NQ_MS/trunk/nq.ms.parent/nq.ms.app.v4/src/main/webapp/WEB-INF/av-commands.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368785690277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../NQ_MS/trunk/nq.ms.parent/nq.ms.app.v4/src/main/webapp/WEB-INF/av-common-services.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368785690277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../NQ_MS/trunk/nq.ms.parent/nq.ms.app.v4/src/main/java/com/netqin/platform/common/service/impl/CommonService.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368785690277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../NQ_MS/trunk/nq.ms.parent/nq.ms.app.v4/src/main/java/com/netqin/av/v4/business/service/impl/AVOp3_0Service.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368785690277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../NQ_MS/trunk/nq.ms.parent/nq.ms.app.v4/src/main/java/com/netqin/av/v4/business/service/IOp3_0Service.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368785690277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../NQ_MS/trunk/nq.ms.parent/nq.ms.app.v4/src/main/java/com/netqin/av/v4/model/AVClientInfo.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368785690277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../NQ_MS/trunk/nq.ms.parent/nq.ms.tools/src/main/java/com/netqin/av/tools/AVCommonTool.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368785690277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../NQ_MS/trunk/nq.ms.parent/nq.ms.app.v4/src/main/java/com/netqin/av/v4/action/UnsubscribeAction.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368785690277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../NQ_MS/trunk/nq.ms.parent/nq.ms.app.v4/src/main/java/com/netqin/av/v4/request/AVRequest.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368785690277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../NQ_MS/trunk/nq.ms.parent/nq.ms.app.v4/src/main/java/com/netqin/av/v4/business/service/impl/ServiceTransportService.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1368785690823" ignored="false" />
+    <file path="/web.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1369015316687" ignored="false" />
+    <file path="/spring-config.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1369027268879" ignored="false" />
+    <file path="/500.jsp" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1369016210106" ignored="false" />
+    <file path="/fragment.java" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1369016693474" ignored="false" />
+    <file path="/servelt-config.xml" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1369027583735" ignored="false" />
+    <file path="/login.jsp" changelist="41514b8e-13a7-4c23-850f-28d2e3f78b93" time="1369027755831" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +115,6 @@
   </component>
   <component name="DebuggerManager">
     <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -126,6 +149,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -138,17 +162,29 @@
       <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="133" column="10" selection-start="4796" selection-end="4796" vertical-scroll-proportion="-0.7096774">
+            <state line="7" column="26" selection-start="254" selection-end="254" vertical-scroll-proportion="-4.967742">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="49" selection-start="1323" selection-end="1323" vertical-scroll-proportion="0.58278143">
-              <folding />
+            <state line="15" column="21" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#544#3076#0" expanded="false" />
+                <element signature="e#1270#1312#0" expanded="false" />
+                <element signature="e#1331#1529#0" expanded="false" />
+                <element signature="e#1552#2246#0" expanded="false" />
+                <element signature="e#2263#2525#0" expanded="false" />
+                <element signature="e#2542#2872#0" expanded="false" />
+                <marker date="1369022045407" expanded="true" signature="29:3135" placeholder="{...}" />
+                <marker date="1369022045407" expanded="true" signature="3163:3225" placeholder="{...}" />
+                <marker date="1369022045407" expanded="true" signature="3266:3896" placeholder="{...}" />
+                <marker date="1369022045407" expanded="true" signature="3296:3586" placeholder="{...}" />
+                <marker date="1369022045407" expanded="true" signature="3922:3926" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -162,19 +198,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ServerMonitor.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ServerMonitor.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/cyh/monitor/controller/ServerMonitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="21" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+            <state line="31" column="54" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.5285285">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#802#818#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="50" selection-start="1668" selection-end="1668" vertical-scroll-proportion="-38.923077">
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="spring-config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="19" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
+            <state line="6" column="52" selection-start="679" selection-end="679" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="servelt-config.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cyh/monitor/servelt-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="24" selection-start="1528" selection-end="1528" vertical-scroll-proportion="-22.0">
               <folding />
             </state>
           </provider>
@@ -202,10 +268,14 @@
         <option value="$PROJECT_DIR$/web/js/highcharts/highcharts.js" />
         <option value="$PROJECT_DIR$/web/css/layout.css" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
-        <option value="$PROJECT_DIR$/src/spring-config.xml" />
         <option value="$PROJECT_DIR$/web/monitor.jsp" />
-        <option value="$PROJECT_DIR$/src/com/cyh/monitor/controller/ServerMonitor.java" />
+        <option value="$PROJECT_DIR$/web/error/500.jsp" />
         <option value="$PROJECT_DIR$/web/js/index.js" />
+        <option value="$PROJECT_DIR$/src/spring-config.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/com/cyh/monitor/servelt-config.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/view/login.jsp" />
+        <option value="$PROJECT_DIR$/src/com/cyh/monitor/controller/ServerMonitor.java" />
       </list>
     </option>
   </component>
@@ -255,7 +325,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -299,7 +368,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="monitor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -316,37 +411,59 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="monitor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="94" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="87" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="75" />
     <property name="project.structure.proportion" value="0.15" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="94" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="vcs.Subversion" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="98" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="99" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="92" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/spmvcPro_withoutjar/spmvcPro.iml" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="891" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="92" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="92" />
     <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="127" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="887" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
+    <property name="options.lastSelected" value="vcs.Subversion" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_idea\nq-monitor\trunk\src\com\cyh\monitor" />
       <recent name="D:\workspace_idea\monitor\web\js\highcharts" />
       <recent name="D:\workspace_idea\monitor\web\js" />
       <recent name="D:\workspace_idea\monitor\web\images" />
@@ -539,6 +656,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
@@ -591,39 +713,47 @@
       <created>1367833420120</created>
       <updated>1367833420120</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="小有成就">
+      <created>1368781080106</created>
+      <updated>1368781080106</updated>
+    </task>
+    <task id="LOCAL-00003" summary="小有成就">
+      <created>1368784639106</created>
+      <updated>1368784639106</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32867134" sideWeight="0.49713057" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.49713057" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.4978479" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.4978479" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33006993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26327115" sideWeight="0.55804193" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44195804" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SVN Repositories" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32867134" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33006993" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26327115" sideWeight="0.55804193" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44195804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32867134" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -688,53 +818,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="20" selection-start="4135" selection-end="4135" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/monitor.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="55" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="20" selection-start="4135" selection-end="4135" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/monitor.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="55" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="36" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/monitor.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="31" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/jquery-1.9.0.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/images/icn_search.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -770,20 +853,6 @@
         <state line="14" column="40" selection-start="543" selection-end="543" vertical-scroll-proportion="0.38703704" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="133" column="10" selection-start="4796" selection-end="4796" vertical-scroll-proportion="-0.7096774">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cyh/monitor/controller/ServerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="25" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cyh/monitor/controller/ServerCache.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="24" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
@@ -798,24 +867,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
+    <entry file="file://$PROJECT_DIR$/web/error/500.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="19" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
+        <state line="11" column="43" selection-start="391" selection-end="391" vertical-scroll-proportion="0.36834094">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cyh/monitor/controller/ServerMonitor.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cyh/monitor/module/ChartSeriesData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="21" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+        <state line="9" column="11" selection-start="195" selection-end="195" vertical-scroll-proportion="0.2877907">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cyh/monitor/controller/ServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="25" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="26" selection-start="254" selection-end="254" vertical-scroll-proportion="-4.967742">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="49" selection-start="1323" selection-end="1323" vertical-scroll-proportion="0.58278143">
+        <state line="15" column="21" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#544#3076#0" expanded="false" />
+            <element signature="e#1270#1312#0" expanded="false" />
+            <element signature="e#1331#1529#0" expanded="false" />
+            <element signature="e#1552#2246#0" expanded="false" />
+            <element signature="e#2263#2525#0" expanded="false" />
+            <element signature="e#2542#2872#0" expanded="false" />
+            <marker date="1369022045407" expanded="true" signature="29:3135" placeholder="{...}" />
+            <marker date="1369022045407" expanded="true" signature="3163:3225" placeholder="{...}" />
+            <marker date="1369022045407" expanded="true" signature="3266:3896" placeholder="{...}" />
+            <marker date="1369022045407" expanded="true" signature="3296:3586" placeholder="{...}" />
+            <marker date="1369022045407" expanded="true" signature="3922:3926" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/spmvcPro_withoutjar/spmvcPro.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="50" selection-start="1668" selection-end="1668" vertical-scroll-proportion="-38.923077">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="2" selection-start="200" selection-end="200" vertical-scroll-proportion="0.41574803">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cyh/monitor/servelt-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="24" selection-start="1528" selection-end="1528" vertical-scroll-proportion="-22.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="52" selection-start="679" selection-end="679" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-test.jar!/org/springframework/mock/web/MockHttpServletResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="171" selection-end="171" vertical-scroll-proportion="0.17160687">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cyh/monitor/controller/ServerMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="54" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.5285285">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#802#818#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
